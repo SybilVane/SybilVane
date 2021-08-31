@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SybilVane
-- 👀 I’m interested in arts, sports, technology, and language learning.
+- 👀 I’m interested in technology, arts, sports and language learning.
 - 🌱 I’m currently learning HTML, CSS, and JavaScript, of course...
-- 💞️ I’m looking to collaborate on anything in relation with videogames, arts, languages.
+- 💞️ I’m looking to collaborate on anything in relation with WebDev, videogames, arts, languages.
 - 📫 How to reach me: sybilvane.spam@gmail.com
 
 <!---
