@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🙋, I'm SybilVane!</h1>
 <h3 align="center">Junior Front-End developer based in Madrid, Spain.</h3>
-<h5>After working for more than 10 years in the area of language teaching, and having covered a variety of tasks which required content creation and design, I decided to take on a new challenge and venture into Web Development with Ironhack Madrid. During my time spent in the Bootcamp, I gained a deeper understanding of the industry and the best practices involved, aside from a solid knowledge base of the main technologies used nowadays.</h5>
+<h5>This year I've decided to take on a new challenge and venture into Web Development with Ironhack Madrid. During my time spent in the Bootcamp, I gained a deeper understanding of the industry and the best practices involved, aside from a solid knowledge base of the main technologies used nowadays. </h5>
 
 📫 How to reach me **sybilvane.spam@gmail.com**
 
