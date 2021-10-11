@@ -2,7 +2,7 @@
 <h3 align="center">Junior Front-End developer based in Madrid, Spain.</h3>
 <h5 align="center">Graduated from WebDev Bootcamp at Ironhack Madrid. Constantly learning and striving to improve every day. <br> I have a penchant for design and arts, videogames, and languages.</h5>
 
-<h5 align="center">📫 How to reach me sybilvane.spam@gmail.com</h5>
+<h5 align="center">📫 How to reach me: **sybilvane.spam@gmail.com**</h5>
 
 
 <h3 align="center">Languages and Tools:</h3>
