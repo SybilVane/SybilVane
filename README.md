@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SybilVane
-- 👀 I’m interested in technology, arts, sports and language learning.
-- 🌱 I’m currently learning HTML, CSS, and JavaScript, of course...
-- 💞️ I’m looking to collaborate on anything in relation with WebDev, videogames, arts, languages.
+- 🙋 Hi, I’m @SybilVane!
+- ⚛️ Front End Developer - Javascript (ES6), HTML, CSS, NodeJS, Express, MongoDB, React.
+- ⭐I’m interested in technology, arts, sports and language learning.
+- ✌ Looking to collaborate on anything in relation with Web Development, videogames, arts, and languages.
 - 📫 How to reach me: sybilvane.spam@gmail.com
 
 
