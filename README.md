@@ -1,7 +1,8 @@
 <h1 align="center">Hi 🙋, I'm SybilVane!</h1>
 <h3 align="center">Junior Front-End developer based in Madrid, Spain.</h3>
-<h5 align="center">Graduated from WebDev Bootcamp at Ironhack Madrid. Constantly learning and striving to improve every day. <br> I have a penchant for design and arts, videogames, and languages.</h5>
-
+<h5 align="center">Graduated from WebDev Bootcamp at Ironhack Madrid. Constantly learning and striving to improve every day. <br> I have a penchant for design and arts, videogames, and languages. </h5>
+<h5 align="center">In my repos you can check out my projects and collaborations with other devs during/after the bootcamp.</h5>
+<h5 align="center">In <a href="https://github.com/IronhackLabs2021">this organization</a> you can find daily exercises and labs done during the bootcamp.</h5>
 <h5 align="center">📫 How to reach me: sybilvane.spam@gmail.com</h5>
 
 
