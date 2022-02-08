@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🙋, I'm SybilVane!</h1>
 <h3 align="center">Junior Front-End developer based in Madrid, Spain.</h3>
-<h5 align="center">Graduated from WebDev Bootcamp at Ironhack Madrid. Currently working at <a href="https://www.linkedin.com/company/harbest-market/">HarBest Market</a>. <br> Constantly learning and striving to improve every day. <br> I have a penchant for design and arts, videogames, and languages. </h5>
+<h5 align="center">Graduated from WebDev Bootcamp at Ironhack Madrid. Currently working at <a href="https://soamee.com/">Soamee</a>. <br> Constantly learning and striving to improve every day. <br> I have a penchant for design and arts, videogames, and languages. </h5>
 <h5 align="center">Feel free to check out my projects and/or collaborations with other devs, just go through my repos. <br>Any comments or feedback are very welcome!</h5>
 <h5 align="center">Daily exercises and labs done during the bootcamp can be found <a href="https://github.com/IronhackLabs2021">here</a></h5>
 <h5 align="center">📫 How to reach me: <br>sybilvane.spam@gmail.com <br><a href="https://www.linkedin.com/in/vanessa-zagone">LinkedIn</a></h5>
