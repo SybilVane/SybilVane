@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sybil Vane!</h1>
-<h3 align="center">Front-End developer based in Madrid, Spain.</h3>
+<h3 align="center">Front-End developer based in Málaga, Spain.</h3>
 
 <h5 align="center">Currently working at <a href="https://clarity.ai/">Clarity AI</a>. <br> Constantly learning and striving to improve every day. <br> I have a penchant for design and arts, videogames, and languages. </h5>
 <h5 align="center">Feel free to check out my projects and/or collaborations with other devs. <br>Any comments or feedback are very welcome!</h5>
